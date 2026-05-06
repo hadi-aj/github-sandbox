@@ -1,4 +1,4 @@
-StormDNS_Client_Linux_AMD64.zip
+
 # 📥 Download Files via Commit Message
 
 A GitHub Actions workflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
